@@ -1,15 +1,16 @@
-# Projects-Templates
+# flutter_project_template
 
-This repository contains projects templates of ReactJS, NodeJS, NextJS, and many more.
-To view the templates, navigate to the links given below -
+A new Flutter project.
 
- - **ReactJS** : https://github.com/devsujay19/Projects-Templates/tree/react
- - **NextJS** : https://github.com/devsujay19/Projects-Templates/tree/next
- - **Express-NodeJS** : https://github.com/devsujay19/Projects-Templates/tree/node
- - **SvelteJS** : https://github.com/devsujay19/Projects-Templates/tree/svelte
- - **ElectronJS** : https://github.com/devsujay19/Projects-Templates/tree/electron
- - **ElectronJS + ViteJS + ReactJS** : https://github.com/devsujay19/Projects-Templates/tree/electron+vite+react
- - **React Native** : https://github.com/devsujay19/Projects-Templates/tree/react-native
- - **Flutter** : https://github.com/devsujay19/Projects-Templates/tree/flutter
+## Getting Started
 
-Every projects templates are in different Branch.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
