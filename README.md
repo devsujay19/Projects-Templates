@@ -1,16 +1,41 @@
-# Projects-Templates
+# Website
 
-This repository contains projects templates of ReactJS, NodeJS, NextJS, and many more.
-To view the templates, navigate to the links given below -
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
- - **ReactJS** : https://github.com/devsujay19/Projects-Templates/tree/react
- - **NextJS** : https://github.com/devsujay19/Projects-Templates/tree/next
- - **Express-NodeJS** : https://github.com/devsujay19/Projects-Templates/tree/node
- - **SvelteJS** : https://github.com/devsujay19/Projects-Templates/tree/svelte
- - **ElectronJS** : https://github.com/devsujay19/Projects-Templates/tree/electron
- - **ElectronJS + ViteJS + ReactJS** : https://github.com/devsujay19/Projects-Templates/tree/electron+vite+react
- - **React Native** : https://github.com/devsujay19/Projects-Templates/tree/react-native
- - **Flutter** : https://github.com/devsujay19/Projects-Templates/tree/flutter
- - **Docusaurus** : https://github.com/devsujay19/Projects-Templates/tree/docusaurus
+### Installation
 
-Every projects templates are in different Branch.
+```
+$ yarn
+```
+
+### Local Development
+
+```
+$ yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
