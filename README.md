@@ -11,6 +11,6 @@ To view the templates, navigate to the links given below -
  - **ElectronJS + ViteJS + ReactJS** : https://github.com/devsujay19/Projects-Templates/tree/electron+vite+react
  - **React Native** : https://github.com/devsujay19/Projects-Templates/tree/react-native
  - **Flutter** : https://github.com/devsujay19/Projects-Templates/tree/flutter
- - **React Native with Firebase** : https://github.com/devsujay19/Projects-Templates/tree/react-native-with-firebase
+ - **Docusaurus** : https://github.com/devsujay19/Projects-Templates/tree/docusaurus
 
 Every projects templates are in different Branch.
